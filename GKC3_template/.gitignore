@@ -1,0 +1,12 @@
+Objects/
+Listings/
+backup/
+__pycache__/
+*.py[cod]
+*.bak
+*.uvguix.*
+*.uvoptx
+*.uvopt
+driverlib/ccs/Debug/
+driverlib/ewarm/Exe/
+driverlib/gcc/*.a
